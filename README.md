@@ -2,6 +2,7 @@
 HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
 
 **ABOUT PROJECT:**
+
 This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
 
 This includes trendline and target line to help HR managers track progress toward reducing attrition. It has charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
@@ -16,4 +17,6 @@ This includes trendline and target line to help HR managers track progress towar
 7th Sheet: Education Field wise Attrition (Donut Plot)
 
 **DASHBOARD:**
+
+
 <img width="793" height="451" alt="HR ANALYTICS DASHBOARD" src="https://github.com/user-attachments/assets/b8da9518-9667-4b51-8581-90d8e53367bf" />
